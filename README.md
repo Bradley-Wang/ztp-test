@@ -6,4 +6,8 @@
 
 **haha**
 
+- George Washington
+* John Adams
++ Thomas Jefferson
+
 ![we](https://myoctocat.com/assets/images/base-octocat.svg)
